@@ -63,8 +63,8 @@
 	/*Menu page css*/
 	#menu{
 		position: fixed;
-		height: 2000px;
-		width: 2500px;
+		height: 100%;
+		width: 100%;
 		text-align: center;
 		background-color: aqua;
 	}
